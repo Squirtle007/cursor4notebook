@@ -53,7 +53,7 @@ You're now ready to create and modify Jupyter notebooks using Cursor's AI assist
 ## Troubleshooting
 
 ### Reset MCP Server
-To restart the MCP server, first free up the port by killing existing processes:
+To restart the MCP server, free up the port by killing existing processes:
 ```bash
 # Kill all cursor-notebook-mcp processes
 pkill -f cursor-notebook-mcp
