@@ -7,7 +7,7 @@ Using Cursor to create and modify Jupyter notebooks through MCP (Model Context P
 ## Setup Instructions
 
 ### 1. Initialize Conda Environment
-Before starting, activate your conda environment:
+Before starting, activate conda environment (optional):
 ```bash
 source ~/miniconda3/etc/profile.d/conda.sh
 ```
