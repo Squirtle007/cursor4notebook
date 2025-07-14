@@ -1,5 +1,3 @@
-<img width="770" height="218" alt="Screenshot 2025-07-14 181245" src="https://github.com/user-attachments/assets/abc29cde-37ba-432d-9f0f-a4e89195baab" /># cursor4notebook
-
 Using Cursor to create and modify Jupyter notebooks through MCP (Model Context Protocol).
 
 ## References
