@@ -38,7 +38,7 @@ cursor-notebook-mcp --transport sse --allow-root "$PWD" --host 127.0.0.1 --port 
 ### 5. Verify MCP Integration
 After setup, you should see the MCP tool available in Cursor:
 
-<img src="https://github.com/user-attachments/assets/b1abecda-2c64-4b36-ae6e-54328fa3ccf6" alt="Screenshot" width="350"/>
+<img src="https://github.com/user-attachments/assets/b1abecda-2c64-4b36-ae6e-54328fa3ccf6" alt="Screenshot" width="450"/>
 
 ### 6. Set Working Directory Context
 Before creating notebooks, prompt Cursor in the chat box:
