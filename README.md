@@ -52,6 +52,17 @@ You're now ready to create and modify Jupyter notebooks using Cursor's AI assist
 
 ## Troubleshooting
 
+### Check port
+- Verify port `8080` is free
+```bash
+sudo lsof -i :8080
+```
+
+- If the port is being used, kill the process using that port:
+```bash
+sudo kill -9 $(sudo lsof -t -i:8080)
+```
+
 ### Reset MCP Server
 To restart the MCP server, free up the port by killing existing processes:
 ```bash
