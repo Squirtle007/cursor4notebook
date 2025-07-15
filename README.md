@@ -1,9 +1,5 @@
 Using Cursor to create and modify Jupyter notebooks through MCP (Model Context Protocol).
 
-## References
-- [cursor-notebook-mcp GitHub Repository](https://github.com/jbeno/cursor-notebook-mcp)
-- [Tutorial Video by Jim Beno](https://www.youtube.com/watch?v=VOVMH-tle14&ab_channel=JimBeno)
-
 ## Setup Instructions
 
 ### 1. Initialize Conda Environment
@@ -68,3 +64,9 @@ To restart the MCP server, free up the port by killing existing processes:
 ```bash
 # Kill all cursor-notebook-mcp processes
 pkill -f cursor-notebook-mcp
+```
+
+
+## References
+- [cursor-notebook-mcp GitHub Repository](https://github.com/jbeno/cursor-notebook-mcp)
+- [Tutorial Video by Jim Beno](https://www.youtube.com/watch?v=VOVMH-tle14&ab_channel=JimBeno)
